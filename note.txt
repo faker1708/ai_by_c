@@ -1,5 +1,16 @@
 用c从头写
 
+
+
+
+
 git remote add <name> <url>
 
 git push <name>
+
+
+vscode 左侧有按键,点击就能生成一个新的git库
+git add *
+git commit -m ''
+git push
+
