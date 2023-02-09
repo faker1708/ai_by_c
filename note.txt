@@ -1,0 +1,5 @@
+用c从头写
+
+git remote add <name> <url>
+
+git push <name>
